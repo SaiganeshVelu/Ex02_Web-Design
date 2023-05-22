@@ -19,10 +19,43 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Implementation of Lists</title>
+</head>
+<style>
+    body{
+        background-color: black;
+        color:whitesmoke;
+    }
+</style>
+<body>
+    <h1>Saveetha Engineering College</h1>
+    <hr>
+    <ol type="A">
+        <li>Agricultural Engineering</li>
+        <li>Computer Science And Engineering</li>
+        <li>Information Technology</li>
+        <li>Data Science</li>
+        <ul>
+            <li>Artificial Intelligence - Data Science</li>
+            <li>Artificial Intelligence - Machine Learning</li>
+            <li>Internet of Things</li>
+        </ul>
+        <li>Electonics & Communication Engineering</li>
+        <li>Electonics & Electronics Engineering</li>
+        <li>Mechanical Engineeringd</li>
+    </ol>
+</body>
+</html>
+~~~
+## OUTPUT:
+![Screenshot 2023-05-22 233326](https://github.com/SaiganeshVelu/Ex02_Web-Design/assets/127816325/c0c208f3-37c0-429a-8c46-3d4a9e91cac5)
 
-
-## OUTPUT
-
-
-## RESULT
+## RESULT:
   List of Departments in an Institution is created successfully.
