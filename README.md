@@ -1,8 +1,8 @@
 # Ex.02 Implementation of Lists
-## AIM
+## AIM:
   To create list of Departments in an Institution.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP-1
   Open notepad and type the HTML code.
 
@@ -18,7 +18,7 @@
 ### STEP-5
   Open the file in a browser and verify the output.
   
-## CODE
+## CODE:
 ~~~
 <!DOCTYPE html>
 <html lang="en">
